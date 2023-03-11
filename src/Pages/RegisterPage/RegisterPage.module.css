@@ -1,6 +1,6 @@
 .body{
     background: #40728D;
-    height: 100vh;
+    
 }
 
 .titleBox{
@@ -73,8 +73,8 @@
 }
 
 .contentContinueGoogle{
-    padding-top: 50px;
     margin: 0 auto;
+    margin-top: 50px;
     width: 56.25%;
     height: 108px;
 }
