@@ -78,3 +78,7 @@
     width: 56.25%;
     height: 108px;
 }
+
+button{
+    cursor: pointer;
+}
